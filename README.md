@@ -3,13 +3,14 @@
 
 ___
 2 applications :
-* [__GSB Frais ( Symfony )__](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Frais)
-* [__GSB RV DR (  Android Studio )__](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-RV-DR.git)
-    * [ Server python ( flask ) ](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-RV-DR-SERVER) 
+* [GSB Frais ( Symfony )](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Frais)
+* [GSB RV DR (  Android Studio )](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-RV-DR.git)
+    * [Server python ( flask )](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-RV-DR-SERVER) 
 ___
 
 ## Documentations
 
-* []()
-* []()
-* []()
+* [Contexte](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/01-GSB-Organisation.pdf)
+* GSB Frais 
+   * [cas d'utilisations](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/03-GSB-Frais-UC-BD.pdf)
+   * [cahier des charges](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/02-SIO-SLAM-GSB-Frais-CahierDesCharges.pdf)
