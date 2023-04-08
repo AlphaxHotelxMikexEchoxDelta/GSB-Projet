@@ -3,8 +3,8 @@
 
 
 2 applications :
-* [GSB Frais ( Symfony )](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Frais)
-* [GSB RV DR (  Android Studio )](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-RV-DR.git)
+1 [GSB Frais ( Symfony )](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Frais)
+2 [GSB RV DR (  Android Studio )](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-RV-DR.git)
     * [Server python ( flask )](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-RV-DR-SERVER) 
 
 
