@@ -9,31 +9,14 @@
 
 
 ___
-# Documentations
+# Contexte et Application
 
 * [Contexte](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/01-GSB-Organisation.pdf)
+
 * GSB Frais 
    * [cas d'utilisations](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/03-GSB-Frais-UC-BD.pdf)
    * [cahier des charges](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/02-SIO-SLAM-GSB-Frais-CahierDesCharges.pdf)
-
-___
-# Architectures Applications
-
-## GSB Frais
-
-## GSB RV DR
-
-___
-# Base de donnees
-
-## GSB Frais
-
-## GSB RV DR
-
-___
-# Screens des applications
-
-## GSB Frais
-[ Voir les screens ](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Frais#screens-shots)
-
-## GSB RV DR
+   
+* GSB RV DR
+   * [cas d'utilisations]()
+   * [cahier des charges]()
