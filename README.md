@@ -11,12 +11,13 @@
 ___
 # Contexte et Application
 
-* [Contexte](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/01-GSB-Organisation.pdf)
+* [Contexte](01-GSB-Organisation.pdf)
 
 * GSB Frais 
-   * [cas d'utilisations](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/03-GSB-Frais-UC-BD.pdf)
-   * [cahier des charges](https://github.com/AlphaxHotelxMikexEchoxDelta/GSB-Projet/blob/main/02-SIO-SLAM-GSB-Frais-CahierDesCharges.pdf)
+   * [cas d'utilisations](03-GSB-Frais-UC-BD.pdf)
+   * [cahier des charges](02-SIO-SLAM-GSB-Frais-CahierDesCharges.pdf)
    
 * GSB RV DR
-   * [cas d'utilisations]()
-   * [cahier des charges]()
+   * [description](01-GSB-AppliRV-FicheDescriptive.pdf) 
+   * [cas d'utilisations](02-GSB-AppliRV-Visiteur-UC.pdf)
+   * [API](05-GSB-AppliRV-Documentation-API.pdf)
