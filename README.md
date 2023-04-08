@@ -20,4 +20,5 @@ ___
 * GSB RV DR
    * [description](01-GSB-AppliRV-FicheDescriptive.pdf) 
    * [cas d'utilisations](02-GSB-AppliRV-Visiteur-UC.pdf)
+   * [navigation](04-GSB-AppliRV-Navigation.pdf)
    * [API](05-GSB-AppliRV-Documentation-API.pdf)
