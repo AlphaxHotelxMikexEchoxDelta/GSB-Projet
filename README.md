@@ -1,28 +1,17 @@
 # Projet Galaxy Swiss Gourdin ( GSB )
 ( BTS SIO, 2021 - 2023 )
 
+* [Contexte](01-GSB-Organisation.pdf)
 
 2 applications :
 1. [GSB Frais](#gsb-frais) ( Symfony )
 2. [GSB RV DR](#gsb-rv-dr) (  Android Studio )
-___
-# Contexte et Application
-
-* [Contexte](01-GSB-Organisation.pdf)
-
-* GSB Frais 
-   * [cas d'utilisations](03-GSB-Frais-UC-BD.pdf)
-   * [cahier des charges](02-SIO-SLAM-GSB-Frais-CahierDesCharges.pdf)
-   
-* GSB RV DR
-   * [description](01-GSB-AppliRV-FicheDescriptive.pdf) 
-   * [cas d'utilisations](02-GSB-AppliRV-Visiteur-UC.pdf)
-   * [navigation](04-GSB-AppliRV-Navigation.pdf)
-   * [API](05-GSB-AppliRV-Documentation-API.pdf)
-
+ 
 ___
 # GSB-Frais
 Application web realiser avec [Symfony](https://symfony.com)
+   * [cas d'utilisations](03-GSB-Frais-UC-BD.pdf)
+   * [cahier des charges](02-SIO-SLAM-GSB-Frais-CahierDesCharges.pdf)
 
 ## Screens shots
 
@@ -43,6 +32,10 @@ Application web realiser avec [Symfony](https://symfony.com)
 ___
 # GSB-RV-DR
 Application mobile realiser avec [Android Studio](https://developer.android.com/studio/)
+   * [description](01-GSB-AppliRV-FicheDescriptive.pdf) 
+   * [cas d'utilisations](02-GSB-AppliRV-Visiteur-UC.pdf)
+   * [navigation](04-GSB-AppliRV-Navigation.pdf)
+   * [API](05-GSB-AppliRV-Documentation-API.pdf)
 
 ## Installations des ressources
 cloner le server python, qui indispensable pour le bon fonctionnement de l'application
