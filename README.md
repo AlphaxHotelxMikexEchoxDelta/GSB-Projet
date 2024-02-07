@@ -1,4 +1,4 @@
-# Projet Galaxy Swiss Gourdin ( GSB )
+# Projet Galaxy Swiss Bourdin ( GSB )
 ( BTS SIO, 2021 - 2023 )
 
 * [Contexte](01-GSB-Organisation.pdf)
